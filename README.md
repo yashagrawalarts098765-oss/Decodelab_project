@@ -2,7 +2,7 @@
 
 *Analyzing e-commerce transaction data to uncover sales, customer, and product trends — and turning them into business recommendations.*
 
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](https://github.com/yashagrawalarts098765-oss/E-Commerce-Data-Analysis)
 <!-- Replace with an actual screenshot: project/assets/dashboard-preview.png -->
 
 ---
@@ -106,7 +106,7 @@ Interactive dashboard (`dashboard/Dashboard.pbix`) with:
 - Customer segment view
 
 **Screenshot:**
-![Dashboard](dashboard/dashboard-preview.png)
+![Dashboard]((https://github.com/yashagrawalarts098765-oss/E-Commerce-Data-Analysis))
 
 ---
 
@@ -144,7 +144,7 @@ jupyter notebook notebooks/02_eda.ipynb
 **Yash Agrawal**
 Aspiring Data Analyst | Python · SQL · Power BI · Excel
 
-[LinkedIn](https://www.linkedin.com/in/yash-agrawal-71b6a8302/) · [Portfolio](https://github.com/yashagrawalarts098765-oss/E-Commerce-Data-Analysis) · [Email](# yashagrawalarts098765@gmail)
+[LinkedIn](https://www.linkedin.com/in/yash-agrawal-71b6a8302/) · [Portfolio](https://github.com/yashagrawalarts098765-oss/E-Commerce-Data-Analysis) · [Email](yashagrawalarts098765@gmail)
 
 ---
 
