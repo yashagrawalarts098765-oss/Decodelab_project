@@ -2,7 +2,7 @@
 
 *Analyzing 1,200 e-commerce orders (Jan 2023–Jun 2025) to uncover sales, customer, and fulfillment trends — and turning them into business recommendations.*
 
-![Dashboard Preview](project/dashboard-screenshot.png)
+![Dashboard Preview](project/Dashboard-Screenshot.png)
 
 ---
 
@@ -103,7 +103,7 @@ Interactive dashboard (`project/Dashboard.pbix`) with:
 - Order status funnel view
 
 **Screenshot:**
-![Dashboard](project/dashboard-screenshot.png)
+![Dashboard](project/Dashboard-Screenshot.png)
 
 ---
 
@@ -141,7 +141,7 @@ jupyter notebook "project/EDA.ipynb"
 **Yash Agrawal**
 Aspiring Data Analyst | Python · SQL · Power BI · Excel
 
-[LinkedIn](#https://www.linkedin.com/in/yash-agrawal-71b6a8302/) · [Portfolio](#https://github.com/yashagrawalarts098765-oss/E-Commerce-Data-Analysis/tree/main) · [Email](#yashagrawalarts98765@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yash-agrawal-71b6a8302/) · [Portfolio](https://github.com/yashagrawalarts098765-oss/E-Commerce-Data-Analysis/tree/main) · [Email](yashagrawalarts98765@gmail.com)
 
 ---
 
