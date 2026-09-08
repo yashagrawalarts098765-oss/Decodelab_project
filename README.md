@@ -2,7 +2,7 @@
 
 *Analyzing e-commerce transaction data to uncover sales, customer, and product trends — and turning them into business recommendations.*
 
-![Dashboard Preview]([project/Screenshot 2026-09-03 214447.png])
+![Dashboard Preview](project/Dashboard_Screenshot.png)
 <!-- Replace with an actual screenshot: project/assets/dashboard-preview.png -->
 
 ---
@@ -106,7 +106,7 @@ Interactive dashboard (`dashboard/Dashboard.pbix`) with:
 - Customer segment view
 
 **Screenshot:**
-![Dashboard]((project/Screenshot 2026-09-03 214447.png))
+![Dashboard](project/Dashboard_Screenshot.png)
 
 ---
 
