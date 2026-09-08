@@ -2,7 +2,7 @@
 
 *Analyzing 1,200 e-commerce orders (Jan 2023–Jun 2025) to uncover sales, customer, and fulfillment trends — and turning them into business recommendations.*
 
-![Dashboard Preview](project/Dashboard-Screenshot.png)
+![Dashboard Preview](project/Dashboard_Screenshot.png)
 
 ---
 
@@ -103,7 +103,7 @@ Interactive dashboard (`project/Dashboard.pbix`) with:
 - Order status funnel view
 
 **Screenshot:**
-![Dashboard](project/Dashboard-Screenshot.png)
+![Dashboard](project/Dashboard_Screenshot.png)
 
 ---
 
